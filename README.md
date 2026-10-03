@@ -31,4 +31,4 @@ Los resultados mostraron una diferencia estadísticamente significativa entre lo
 
 Este proyecto fortaleció mi experiencia en A/B testing, análisis de embudos de conversión y pruebas estadísticas, así como mi capacidad para interpretar resultados sin asumir que una diferencia observada implica necesariamente un efecto real.
 
-# Herramientas: Python · Pandas · NumPy · SciPy · A/B Testing · Statistical Analysis · Z-test
+Herramientas: Python · Pandas · NumPy · SciPy · A/B Testing · Statistical Analysis · Z-test
